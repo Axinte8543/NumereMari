@@ -221,4 +221,5 @@ delete c1;*/
 
 //folosim constructorii si destructorii
 //am separat clasa de cpp
-//avem o valaore de tip static,avem lista de initializare,
+//avem o valaore de tip static,avem lista de initializare
+
