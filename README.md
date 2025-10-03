@@ -17,6 +17,4 @@ Precizari:
 
 · S-ar putea sa vreti sa implementati si alte operatii pe numere mari.
 
-· Numerele mari au intre 1 si 10000 de cifre. Se acorda bonus daca folositi
-eficient memoria (adica nu alocati cu mult mai mult spatiu pentru cifre
-decat necesar).
+· Numerele mari au intre 1 si 10000 de cifre.
