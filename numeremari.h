@@ -30,7 +30,7 @@ class NumereMari:public Numere
   string operator*(const NumereMari&); //Inmultirea numerelor
   string operator+(const NumereMari&); //Adunarea numerelor
   string operator-(const NumereMari&); //Diferenta numerelor
-  friend ostream& operator<<(ostream&, const NumereMari&); //ne ajuta cand afisam doar un obiect
+  friend ostream& operator<<(ostream&, const NumereMari&); //ne ajuta cand afisam doar un obiectt
 
 };
 class NumereNaturale:public NumereMari
@@ -58,3 +58,4 @@ class NumereComplexe:public NumereMari
   NumereComplexe(const string &);
 };
 #endif // _NUMEREMARI_H_
+
