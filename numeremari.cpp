@@ -8,7 +8,7 @@ Numere::Numere (string numar1,string numar2)
  this->numar2=numar2;}
 Numere::~Numere (){}
 string Numere::SubstractFromMe1(){
-   int c=0; //numarul din minte
+   int c=0; //numarul din minte.
    int ok=0;
    if((numar2>numar1 && numar1.length()==numar2.length()) || numar1.length()<numar2.length())
       ok=1;
@@ -786,3 +786,4 @@ NumereReale::NumereReale(const string& num2) : NumereMari(num2),nr3(num2)
 {}
 NumereComplexe::NumereComplexe(const string& num2) : NumereMari(num2),nr4(num2)
 {}
+
